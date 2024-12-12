@@ -1,8 +1,9 @@
 
--______________------------------
 
 # Comandi utili 
 
+
+mi serve per generare un model
 ```
 ng generate class hero --type=model 
 ```

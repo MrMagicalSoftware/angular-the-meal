@@ -8,6 +8,13 @@ mi serve per generare un model
 ng generate class hero --type=model 
 ```
 
+generare un service
+```
+ng generate service my-service
+```
+
+
+
 **questo mi starta il server**
 ```
 ng serve
